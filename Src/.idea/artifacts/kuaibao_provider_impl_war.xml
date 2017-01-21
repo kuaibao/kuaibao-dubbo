@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kuaibao-provider-impl:war">
+    <output-path>$PROJECT_DIR$/kuaibao-provider-impl/target</output-path>
+    <root id="archive" name="kuaibao-provider-impl.war">
+      <element id="artifact" artifact-name="kuaibao-provider-impl:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kuaibao-consumer/kuaibao-consumer.iml" filepath="$PROJECT_DIR$/kuaibao-consumer/kuaibao-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kuaibao-dubbo.iml" filepath="$PROJECT_DIR$/kuaibao-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kuaibao-provider/kuaibao-provider.iml" filepath="$PROJECT_DIR$/kuaibao-provider/kuaibao-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kuaibao-provider-api/kuaibao-provider-api.iml" filepath="$PROJECT_DIR$/kuaibao-provider-api/kuaibao-provider-api.iml" />
+    </modules>
+  </component>
+</project>

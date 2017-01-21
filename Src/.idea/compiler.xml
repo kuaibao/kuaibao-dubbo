@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kuaibao-consumer" />
+        <module name="kuaibao-provider" />
+        <module name="kuaibao-provider-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kuaibao-consumer" target="1.8" />
+      <module name="kuaibao-consumer-mpl" target="1.5" />
+      <module name="kuaibao-dubbo" target="1.8" />
+      <module name="kuaibao-provider" target="1.8" />
+      <module name="kuaibao-provider-api" target="1.8" />
+      <module name="kuaibao-provider-impl" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

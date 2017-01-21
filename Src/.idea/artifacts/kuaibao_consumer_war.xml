@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kuaibao-consumer:war">
+    <output-path>$PROJECT_DIR$/kuaibao-consumer/target</output-path>
+    <root id="archive" name="kuaibao-consumer.war">
+      <element id="artifact" artifact-name="kuaibao-consumer:war exploded" />
+    </root>
+  </artifact>
+</component>

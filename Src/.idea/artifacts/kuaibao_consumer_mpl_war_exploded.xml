@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="kuaibao-consumer-mpl:war exploded">
+    <output-path>$PROJECT_DIR$/kuaibao-consumer-mpl/target/kuaibao-consumer-impl</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="kuaibao-consumer-mpl" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/kuaibao-consumer-mpl/target/kuaibao-consumer-impl/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="kuaibao-consumer-mpl/web/Web" />
+    </root>
+  </artifact>
+</component>
